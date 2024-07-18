@@ -8,7 +8,7 @@ __        __       _       ____                         _  _____
    \_/\_/    \___||_.__/  \____||_|    \__,_|  \_/\_/  |_|/____|
 ```
 
-WebCrawlZ is a simple and fundamental web crawler tool that scans a website for all anchor (`&lt;a>`) tags and prints their `href` attributes. It is built using Python and utilizes the `requests`, `BeautifulSoup`, and `fake-useragent` libraries for web scraping and user agent spoofing. Additionally, it uses the `art` library for ASCII art.
+WebCrawlZ is a simple and fundamental web crawler tool that scans a website for all anchor (`&lt;a>`) tags and prints their `href` attributes. It is built using Python and utilizes the `requests`, `BeautifulSoup`, and `fake-useragent` libraries for web scraping and user agent spoofing.
 
 ## Features
 
@@ -21,7 +21,7 @@ WebCrawlZ is a simple and fundamental web crawler tool that scans a website for 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/WebCrawlZ.git
+git clone https://github.com/Toughrebel4041/WebCrawlZ
 cd WebCrawlZ
 ```
 
