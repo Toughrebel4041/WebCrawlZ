@@ -1,6 +1,7 @@
 # WebCrawlZ
 #### Written by: Toughrebel4041
-```__        __       _       ____                         _  _____
+```
+__        __       _       ____                         _  _____
 \ \      / /  ___ | |__   / ___| _ __   __ _ __      __| ||__  /
  \ \ /\ / /  / _ \| '_ \ | |    | '__| / _` |\ \ /\ / /| |  / /
   \ V  V /  |  __/| |_) || |___ | |   | (_| | \ V  V / | | / /_
@@ -14,7 +15,6 @@ WebCrawlZ is a simple and fundamental web crawler tool that scans a website for 
 - Fetches and prints all links from a given URL.
 - Spoofs user agent to avoid blocking by websites.
 - Provides error handling for various request exceptions.
-- Displays an ASCII art title "WebCrawlZ" at the start.
 
 ## Installation
 
